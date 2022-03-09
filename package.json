@@ -1,0 +1,22 @@
+{
+  "name": "uiclicker2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/p4we3/UIClicker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/p4we3/UIClicker/issues"
+  },
+  "homepage": "https://github.com/p4we3/UIClicker#readme",
+  "dependencies": {
+    "cypress": "^9.5.1"
+  }
+}
